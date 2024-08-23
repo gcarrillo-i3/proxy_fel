@@ -33,7 +33,7 @@ Este módulo es una herramienta esencial para cualquier empresa en Guatemala que
     'maintainer': 'I3',
     'license': 'OPL-1',
     'category': 'Accounting',
-    'images': ['static/src/img/i3g.gif'],
+    'images': ['static/description/images/new_banner.gif'],
     'depends': ['account','l10n_gt'],
     'data': [
         'data/cargar_incoterms.xml',
