@@ -16,3 +16,5 @@ Este módulo está diseñado para facilitar la certificación ante la **Superint
 ---
 
 Este módulo es una herramienta esencial para cualquier empresa en Guatemala que busque certificar sus procesos de facturación electrónica con la **SAT** de manera rápida y eficiente, directamente desde **Odoo**.
+
+---
